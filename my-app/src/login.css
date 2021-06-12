@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+.main{
+  background-color:lightgrey;
+  height: 40vh;
+  width: 30vw;
+}
+.loginType{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.loginInput{
+  display: flex;
+  flex-direction: column;
+}
+.loginBtn{
+  width: 30vw;
+}
